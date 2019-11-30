@@ -1,0 +1,7 @@
+{
+  "/auth": {
+    "target": "http://YOUR_KEYCLOAK_ADDRESS:30224",
+    "changeOrigin": true,
+    "secure": false
+  }
+}
