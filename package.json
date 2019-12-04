@@ -1,6 +1,25 @@
 {
   "name": "keycloak-angular",
   "version": "0.0.0",
+  "description":"A keycloak openid-connect library that supports REST Login, Logout and Check Login status. Go through the README.md file for detailed features and documentation.",
+  "author": "Tofiq Quadri (tofiqquadri@developershive.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tofiqquadri/ng-keycloak.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tofiqquadri/ng-keycloak/issues"
+  },
+  "homepage": "https://github.com/tofiqquadri/ng-keycloak",
+  "keywords": [
+    "angular",
+    "keycloak",
+    "openid-connect",
+    "oauth",
+    "auth2.0",
+    "keycloak rest api"
+  ],
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --proxy-config proxy.conf.json",
